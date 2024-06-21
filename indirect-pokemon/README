@@ -1,0 +1,13 @@
+
+TANSTACK - REACT QUERY
+
+```
+yarn add @tanstack/react-query
+```
+
+
+TANSTACK - REACT LOCATION
+
+```
+npm install @tanstack/react-location
+```

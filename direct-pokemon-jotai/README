@@ -1,0 +1,8 @@
+
+
+JOTAI - ATOMIC STATE MANAGEMENT
+
+```
+yarn add jotai
+yarn add jotai-tanstack-query @tanstack/query-core wonka
+```
